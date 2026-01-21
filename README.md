@@ -1,3 +1,7 @@
+# 강연
+[한기용님 강연 - AI 이후 실리콘밸리 개발자는 어떻게 일하고 있는가?](https://velog.io/@tri2601/AI-%EC%9D%B4%ED%9B%84-%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%BC%ED%95%98%EA%B3%A0-%EC%9E%88%EB%8A%94%EA%B0%80)
+
+
 # LLM
 - [MoE 개념 정리](https://velog.io/@tri2601/MoE-Mixture-of-Experts)
 
