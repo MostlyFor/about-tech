@@ -2,6 +2,13 @@
 [한기용님 강연 - AI 이후 실리콘밸리 개발자는 어떻게 일하고 있는가?](https://velog.io/@tri2601/AI-%EC%9D%B4%ED%9B%84-%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%BC%ED%95%98%EA%B3%A0-%EC%9E%88%EB%8A%94%EA%B0%80)
 
 
+# AI Native
+[[클로드 코드 공식 문서] - Core concepts 1. How Claude Code works](https://velog.io/@tri2601/Claude-Code-Docs-Core-concepts-1.-How-Claude-Code-works)
+[[클로드 코드 공식문서] 2. Extend Claude Code](https://velog.io/@tri2601/%ED%81%B4%EB%A1%9C%EB%93%9C-%EC%BD%94%EB%93%9C-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C-2.-Extend-Claude-Code)
+
+
+
+
 # LLM
 - [MoE 개념 정리](https://velog.io/@tri2601/MoE-Mixture-of-Experts)
 
@@ -13,3 +20,5 @@
 - [[팀네이버 컨퍼런스 DAN 24] LLM for Search: 꽁꽁 얼어붙은 검색 서비스 위로 LLM이 걸어다닙니다](https://acoustic-basin-638.notion.site/DAN-24-LLM-for-Search-LLM-1e46194f04ca80758d55e74f7ec2c893?pvs=4)
   - LLM이 검색에 쓰이는 예시와 네이버 내부 검색 SLM에 대한 설명
   - inference 부분은 추가 공부 필요
+
+
